@@ -97,6 +97,6 @@ pip install -r requirements.txt
 
 python train.py
 
-![示例图像](output/masks/142_jpg.rf.6e227599721aa3921ac5bc0f57153f6f.png)
-![示例图像](output/overlays/142_jpg.rf.6e227599721aa3921ac5bc0f57153f6f.png)
+![img](assets/001im.png)
+![img](assets/001ms.png)
 
