@@ -97,6 +97,3 @@ pip install -r requirements.txt
 
 python train.py
 
-
-![img](./assets/001im.png)
-![img](./assets/001ms.png)
