@@ -97,3 +97,5 @@ pip install -r requirements.txt
 
 python train.py
 
+![](D:\code\python\unet_seg\output\overlays\142_jpg.rf.6e227599721aa3921ac5bc0f57153f6f.png)
+![](D:\code\python\unet_seg\output\masks\142_jpg.rf.6e227599721aa3921ac5bc0f57153f6f.png)
