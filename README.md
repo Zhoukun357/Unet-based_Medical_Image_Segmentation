@@ -88,7 +88,7 @@ U-Net 是医学图像分割领域的**基础模型**，非常适合作为入门�
 1️.环境配置
 
 建议使用 Python 3.8 及以上版本，并安装必要依赖：
-```bash
+
 pip install -r requirements.txt
 
 
