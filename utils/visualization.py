@@ -84,7 +84,6 @@ def visualize_result(image, gt_mask, pred_mask, pred_prob, save_path=None):
 def visualize_error_analysis(image, gt_mask, pred_mask, save_path=None):
     """
     【高级功能】生成误差分析图 (FP/FN Analysis)。
-    这是论文 Discussion 部分非常有用的图表，用于展示模型“哪里错了”。
     
     颜色编码：
     - 黄色 (Yellow): True Positive (正确预测的肿瘤)

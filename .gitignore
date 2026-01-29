@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & Outputs
+data/
+output/
+
+# Model weights
+*.pth
